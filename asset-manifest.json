@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/veg-app/static/css/main.63a00794.chunk.css",
-    "main.js": "/veg-app/static/js/main.45666f49.chunk.js",
-    "main.js.map": "/veg-app/static/js/main.45666f49.chunk.js.map",
+    "main.js": "/veg-app/static/js/main.13f76622.chunk.js",
+    "main.js.map": "/veg-app/static/js/main.13f76622.chunk.js.map",
     "runtime-main.js": "/veg-app/static/js/runtime-main.242a076e.js",
     "runtime-main.js.map": "/veg-app/static/js/runtime-main.242a076e.js.map",
     "static/css/2.11829350.chunk.css": "/veg-app/static/css/2.11829350.chunk.css",
     "static/js/2.2839019c.chunk.js": "/veg-app/static/js/2.2839019c.chunk.js",
     "static/js/2.2839019c.chunk.js.map": "/veg-app/static/js/2.2839019c.chunk.js.map",
     "index.html": "/veg-app/index.html",
-    "precache-manifest.1309570c2920c5dd0fd4ab2de0671475.js": "/veg-app/precache-manifest.1309570c2920c5dd0fd4ab2de0671475.js",
+    "precache-manifest.c75c955bcc0e12a7173774a9eeb314d6.js": "/veg-app/precache-manifest.c75c955bcc0e12a7173774a9eeb314d6.js",
     "service-worker.js": "/veg-app/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/veg-app/static/css/2.11829350.chunk.css.map",
     "static/css/main.63a00794.chunk.css.map": "/veg-app/static/css/main.63a00794.chunk.css.map",
@@ -30,6 +30,6 @@
     "static/css/2.11829350.chunk.css",
     "static/js/2.2839019c.chunk.js",
     "static/css/main.63a00794.chunk.css",
-    "static/js/main.45666f49.chunk.js"
+    "static/js/main.13f76622.chunk.js"
   ]
 }

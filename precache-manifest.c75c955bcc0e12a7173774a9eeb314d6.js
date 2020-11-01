@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e436693932d72ac284f08034d4021c29",
+    "revision": "03f302e7ce31286e5a4fb053df326445",
     "url": "/veg-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/veg-app/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "56cbf7d7740b39954341",
+    "revision": "a36a408526fdd5cf20f4",
     "url": "/veg-app/static/css/main.63a00794.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/veg-app/static/js/2.2839019c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "56cbf7d7740b39954341",
-    "url": "/veg-app/static/js/main.45666f49.chunk.js"
+    "revision": "a36a408526fdd5cf20f4",
+    "url": "/veg-app/static/js/main.13f76622.chunk.js"
   },
   {
     "revision": "98353506ded5755b6c48",
