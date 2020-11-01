@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/veg-app/static/css/main.63a00794.chunk.css",
+    "main.js": "/veg-app/static/js/main.13f76622.chunk.js",
+    "main.js.map": "/veg-app/static/js/main.13f76622.chunk.js.map",
+    "runtime-main.js": "/veg-app/static/js/runtime-main.242a076e.js",
+    "runtime-main.js.map": "/veg-app/static/js/runtime-main.242a076e.js.map",
+    "static/css/2.11829350.chunk.css": "/veg-app/static/css/2.11829350.chunk.css",
+    "static/js/2.2839019c.chunk.js": "/veg-app/static/js/2.2839019c.chunk.js",
+    "static/js/2.2839019c.chunk.js.map": "/veg-app/static/js/2.2839019c.chunk.js.map",
+    "index.html": "/veg-app/index.html",
+    "precache-manifest.5b07f631058405e046a17a94efef27dc.js": "/veg-app/precache-manifest.5b07f631058405e046a17a94efef27dc.js",
+    "service-worker.js": "/veg-app/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/veg-app/static/css/2.11829350.chunk.css.map",
+    "static/css/main.63a00794.chunk.css.map": "/veg-app/static/css/main.63a00794.chunk.css.map",
+    "static/js/2.2839019c.chunk.js.LICENSE.txt": "/veg-app/static/js/2.2839019c.chunk.js.LICENSE.txt",
+    "static/media/bg1.jpg": "/veg-app/static/media/bg1.6764296f.jpg",
+    "static/media/bgabout.jpg": "/veg-app/static/media/bgabout.b38daa5c.jpg",
+    "static/media/bgg3.jpg": "/veg-app/static/media/bgg3.98790312.jpg",
+    "static/media/cartbg.jpg": "/veg-app/static/media/cartbg.c78c847c.jpg",
+    "static/media/contactbcg.jpg": "/veg-app/static/media/contactbcg.031f24e0.jpg",
+    "static/media/credit-card.svg": "/veg-app/static/media/credit-card.8767b4bd.svg",
+    "static/media/defaultbg.jpg": "/veg-app/static/media/defaultbg.7a0980be.jpg",
+    "static/media/free-delivery.svg": "/veg-app/static/media/free-delivery.a9d8f378.svg",
+    "static/media/fruitscollection.jpg": "/veg-app/static/media/fruitscollection.35ab0d7c.jpg",
+    "static/media/return.svg": "/veg-app/static/media/return.17c83b75.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.242a076e.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.2839019c.chunk.js",
+    "static/css/main.63a00794.chunk.css",
+    "static/js/main.13f76622.chunk.js"
+  ]
+}
